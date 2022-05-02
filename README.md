@@ -5,6 +5,8 @@ Projeto desenvolvido em Vite React e Typescript como avaliação para curso Crip
 ## Preview
 
 Confira [aqui](https://calculadora-cripto-dev.herokuapp.com/) um preview do site.
+[<img src="https://github.com/danielcsar/Calculadora-CriptoDev/blob/main/src/assets/print.PNG">](https://github.com/danielcsar/Calculadora-CriptoDev/blob/main/src/assets/print.PNG)
+<br>
 
 ## Como Rodar
 
